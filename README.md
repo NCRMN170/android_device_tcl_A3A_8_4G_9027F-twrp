@@ -24,3 +24,4 @@ AVB (I don't know if this is necessary for this device. I need to learn more)
 
 tested using the omni minimal manifest, twrp-9 branch  
 
+this device using this code: fastboot oem reboot-recovery
