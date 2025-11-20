@@ -1,8 +1,8 @@
-# Alcatel 3T 8 T-Mobile TWRP Device Tree
+# Alcatel 3T 8 9027F TWRP Device Tree _ Thanks to xmusjackson
 
 This is a device tree for the Alcatel 3T 8 tablet offered by T-Mobile and Metro PCS(?).  
 Manufacturer: TCL  
-Product:      A3A_8_4G_TMO  
+Product:      A3A_8_4G_9027F  
 
 ### What works:
 
@@ -23,3 +23,4 @@ AVB (I don't know if this is necessary for this device. I need to learn more)
 
 
 tested using the omni minimal manifest, twrp-9 branch  
+
