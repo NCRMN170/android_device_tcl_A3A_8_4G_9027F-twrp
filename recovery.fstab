@@ -13,7 +13,7 @@
 
 /data                       ext4        /dev/block/platform/bootdevice/by-name/userdata            flags=display="Data";wipeingui;backup=1;forceencrypt=/dev/block/platform/bootdevice/by-name/metadata
 /cache                      ext4        /dev/block/platform/bootdevice/by-name/cache               flags=display="Cache";wipeingui;backup=1;flashimg=1;wipeduringfactoryreset         
-/storage                    ext4        /data/media/0                                              flags=display="Internal Storage";usermrf;fsflags="bind";backup=1;removable
+/storage                    ext4        /data/media                                                flags=display="Internal Storage";usermrf;fsflags="bind";backup=1;removable
 
 /dtbo                        emmc      /dev/block/platform/bootdevice/by-name/dtbo              flags=display="DTBO";backup=1;flashimg=1
 /preloader_a                 emmc      /dev/block/platform/bootdevice/by-name/preloader_a       flags=display="Preloader_A";backup=1
