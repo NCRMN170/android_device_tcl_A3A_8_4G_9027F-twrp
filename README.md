@@ -19,9 +19,10 @@ mtp
 Selinux (I haven't written policies)  
 AVB (I don't know if this is necessary for this device. I need to learn more)  
 
-### Kernel Source https://github.com/xmusjackson/android_kernel_tcl_A3A_8_4G_TMO  
+### Kernel Source https://github.com/NCRMN170/a3a84g_9027f_alcatel-3T-8_kernel-source_v4.4.95.git 
 
 
 tested using the omni minimal manifest, twrp-9 branch  
 
 this device using this code: fastboot oem reboot-recovery
+
