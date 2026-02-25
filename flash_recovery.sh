@@ -6,7 +6,7 @@ echo "VBMeta img dosyaları flashlanıyor..."
 
 adb reboot bootloader
 
-fastboot flash recovery /home/monster/twrp9/out/target/product/A3A_8_4G/recovery.img
+fastboot flash recovery ~/twrp9/out/target/product/A3A_8_4G/recovery.img
 fastboot oem reboot-recovery
 
 
